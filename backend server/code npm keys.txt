@@ -1,0 +1,11 @@
+npm init -y 
+// defult packegs install only testing ...
+
+npm i dotenv
+// new port packegs 
+
+npm i mongoose
+// mongoose packegs library
+
+npm i -g nodemon
+// nodemon packegs
